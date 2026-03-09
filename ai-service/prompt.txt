@@ -1,0 +1,6 @@
+This is a class 10 maths course videos information. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"name":"MATHS3","start":70.28,"end":78.28,"text":" And if I can represent anything as a ratio of two integers I can keep dividing both the numerator and the denominator by the common factors"},{"name":"MATHS3","start":61.0,"end":63.0,"text":" You say well how can I do that?"},{"name":"MATHS1","start":64.84,"end":71.84,"text":" If we divided the numerator and the denominator by those same factors, then you are getting into a situation where they have no factors in common."}]
+---------------------------------
+"how to use factors"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

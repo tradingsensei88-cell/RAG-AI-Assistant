@@ -1,0 +1,9 @@
+Hi there! I'd be happy to help you with your question about using factors.
+
+From what I gathered, it seems like the concept of factors is introduced in Video MATHS1. Specifically, at around 64:45 seconds, the instructor explains that if we divide both the numerator and the denominator by their common factors, then they will have no factors in common.
+
+However, it's not just a one-liner explanation. The instructor also talks about representing anything as a ratio of two integers and how dividing by common factors can simplify this process.
+
+If you want to learn more about using factors or understanding ratios, I'd recommend checking out Video MATHS1. You can find the relevant part at around 64:45 seconds.
+
+Let me know if you have any further questions!
